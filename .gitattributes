@@ -17,5 +17,5 @@
 *.RTF	 diff=astextplain
 
 # Set css file to linguist-language=Text
-*.css linguist-language=astextplain
-*.js linguist-language=astextplain
+*.css linguist-language=python
+*.js linguist-language=python
